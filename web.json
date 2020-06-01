@@ -1,0 +1,18 @@
+{
+  "data" : "test",
+  "home":{
+    "page_title" : "Json Page Title",
+    "body_text" : "Sample Json body text for the sample site"
+  },
+  "about":{
+    "page_title" : "About Brickblock",
+    "body_text" : "Brickblock is designed to help build websites quickly without the need to know a lot of code and stuff. <a href=\"https://duckduckgo.com\">This is a link</a> just to test somethings out."
+  },
+  "contact":{
+    "page_title" : "Contact Brickblock",
+    "body_text" : "Do you need to contact us? Too bad. We don't currently allow for that functionality."
+  },
+  "sample" : "Sample Page",
+  "body_text" : "",
+  "body_text_link" : "https://github.com/b4dgerOne/website.com/blob/master/sample.txt"
+}
